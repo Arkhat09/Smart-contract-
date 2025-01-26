@@ -1,4 +1,2 @@
 # Smart-contract-
-We developed a smart contract as the first step toward creating the Minimum Viable Product (MVP) of our platform. This prototype embodies our concept of leveraging blockchain technology to enhance security and efficiency in the banking sector and on trading platforms.
-
-Our goal is to create an innovative solution that allows financial organizations and traders to securely manage transactions, comply with regulatory requirements, and minimize risks. This current phase of development lays the foundation for future functionality, including process automation through smart contracts and AI integration for detecting suspicious activities.
+We've initiated the development of our Minimum Viable Product (MVP) with a smart contract that showcases our innovative approach to security and efficiency in our marketplace. This prototype utilizes blockchain technology to create a powerful fraud detection system, setting the stage for future advancements such as smart contract automation and AI-driven real-time fraud detection.
